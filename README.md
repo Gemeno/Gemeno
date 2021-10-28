@@ -20,10 +20,10 @@
   - <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/1200px-SAS_logo_horiz.svg.png alt="drawing" width="20"/> : for data processing and ML. Key PROCs: `PROC REG, PROC GLM, PROC CLUSTER`
   - <img src=https://www.claudiodee.com/wp-content/uploads/2021/01/sql.png alt="drawing" width="20"/> : for querying against DDBB.
   - <img src=https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg alt="drawing" width="20"/> **&** <img src=https://datastudioymas.com/wp-content/uploads/2019/04/logo-1024x1024.png alt="drawing" width="20"/> : for visualitation and BI.
+  - <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png alt="drawing" width="20"/> : as my favourite open-source OS.
+
 
 
 
 ***
 
-[logo_python]: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
-[logo_spark]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/768px-Apache_Spark_logo.svg.png "Spark"
