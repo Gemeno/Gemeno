@@ -8,7 +8,7 @@
 
 - **🧑‍💼Job Experience🧑‍💼**
   - Data Scientist at JOT Internet Media (Digital Marketing) 
-  - Consultant at Cognodata
+  - Data Science Consultant at Cognodata
 
 - **🃏Bridge🃏**
   - 🥈Runner-up in the 2017 Youth Spanish Championship🥈
